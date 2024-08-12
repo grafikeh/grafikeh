@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQFO1u3gWADzvA/profile-displaybackgroundimage-shrink_350_1400/0/1710852495608?e=1729123200&v=beta&t=ueS8VbwMQ4tjQCVOyVSkW596EFv_ozklM-c-WJl6QQ0" alt="">
+
 <h1 align="center">Hi 👋, I'm Salih</h1>
 <h3 align="center">When transitioning into the coding world, I said 'age is just a number'; <br>now I say 'code is just the beginning!</h3>
 
