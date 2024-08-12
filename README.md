@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salih</h1>
-<h3 align="center">When transitioning into the coding world, I said 'age is just a number'; now I say 'code is just the beginning!</h3>
+<h3 align="center">When transitioning into the coding world, I said 'age is just a number'; <br>now I say 'code is just the beginning!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grafikeh&label=Profile%20views&color=0e75b6&style=flat" alt="grafikeh" /> </p>
 
